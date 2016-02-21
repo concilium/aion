@@ -1,0 +1,24 @@
+{
+  "name": "aion",
+  "version": "0.2.0",
+  "description": "The Aion RPG.",
+  "main": "config.default.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concilium/aion.git"
+  },
+  "author": "Mike Simpson <stendhal9@white-knight.org>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/concilium/aion/issues"
+  },
+  "homepage": "https://github.com/concilium/aion#readme",
+  "dependencies": {
+	  "raneto": "0.9.0",
+	  "debug": "2.2.0"
+  }
+}
