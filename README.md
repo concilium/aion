@@ -1,2 +1,3 @@
-# aion
+# Aion
+
 The Aion RPG.
