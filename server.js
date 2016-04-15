@@ -4,7 +4,7 @@
 
 var debug = require( 'debug' )( 'raneto' );
 var raneto = require( 'raneto' );
-var config = require( './config.default.js' );
+var config = require( './config.js' );
 
 var app = raneto( config );
 var server = app.listen( app.get( 'port' ), function () {
